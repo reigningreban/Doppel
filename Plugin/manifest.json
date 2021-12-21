@@ -1,0 +1,10 @@
+{
+  "name": "Doppel",
+  "id": "1041518178237762063",
+  "api": "1.0.0",
+  "main": "./dist/code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "./dist/ui.html"
+}
